@@ -1,8 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Flask-SocketIO
-python-socketio
-Werkzeug
-Flask-WTF
-eventlet
-greenlet
